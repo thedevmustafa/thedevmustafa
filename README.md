@@ -44,16 +44,16 @@ Here are some ideas to get you started:
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p>
+  <a href="mailto:thedevmustafa@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-thedevmustafa@gmail.com-pink">
+  </a>
+</p>
 
-<a href="mailto:thedevmustafa@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-thedevmustafa@gmail.com-pink">
-</a>
-
-<a href="https://www.linkedin.com/in/thedevmustafa/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thedevmustafa-pink">
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/thedevmustafa/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thedevmustafa-pink">
+  </a>
 </p>
 
 <hr>
@@ -63,12 +63,14 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevmustafa&show_icons=true&theme=onedark)
 
 <br>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=thedevmustafa&show_icons=true&theme=gotham" /></td>
-    <td><img src="http://github-readme-streak-stats.herokuapp.com?user=thedevmustafa&theme=solarized" /></td>
-  </tr>
-</table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=thedevmustafa&show_icons=true&theme=onedark" alt="GitHub Stats" />
+
+<br>
+  
+<img src="http://github-readme-streak-stats.herokuapp.com?user=thedevmustafa&theme=onedark" alt="GitHub Streak" />
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thedevmustafa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
