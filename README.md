@@ -70,9 +70,12 @@ Here are some ideas to get you started:
   
 <img src="http://github-readme-streak-stats.herokuapp.com?user=thedevmustafa&theme=onedark" alt="GitHub Streak" />
 
-
+<br>
 
 ## 🏆 GitHub Trophies
+
+<br>
+
 ![](https://github-profile-trophy.vercel.app/?username=thedevmustafa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
